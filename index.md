@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-![bens funny cat](http://topbananagifts.co.uk/sh2/index.php?main_page=popup_image&pID=7)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
