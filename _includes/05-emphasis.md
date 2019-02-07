@@ -1,9 +1,9 @@
-**strong** 
+**Strong** 
 
-*fast* 
+*Fast* 
 
-_wild_
+_Wild_
 
-__lazy__ 
+__Lazy__ 
 
-entertaining 
+Entertaining 
