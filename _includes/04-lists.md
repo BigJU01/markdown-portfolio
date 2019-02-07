@@ -1,9 +1,17 @@
 - sports
+
   -football
-  -fighting
+ 
+ -fighting
+  
  -food
+ 
   -brownies:smile::+1::heart:
+  
   -pizza
+  
   -burgers
+ 
  -colour
-  -blue
+ 
+ -blue
