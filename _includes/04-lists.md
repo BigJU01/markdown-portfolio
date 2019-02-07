@@ -1,6 +1,6 @@
 - sports
 
-  -football
+  - football
  
  -fighting
   
