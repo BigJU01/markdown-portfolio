@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- sports
+  -football
+  -fighting
+ -food
+  -brownies:smile::+1::heart:
+  -pizza
+  -burgers
+ -colour
+  -blue
