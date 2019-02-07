@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-[bens funny cat](http://topbananagifts.co.uk/sh2/index.php?main_page=popup_image&pID=7)
+![bens funny cat](http://topbananagifts.co.uk/sh2/index.php?main_page=popup_image&pID=7)
 
 <br>
 
