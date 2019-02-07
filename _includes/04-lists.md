@@ -2,16 +2,16 @@
 
   - football
  
- -fighting
+ - fighting
   
- -food
+ - food
  
-  -brownies:smile::+1::heart:
+  - brownies:smile::+1::heart:
   
-  -pizza
+  - pizza
   
-  -burgers
+  - burgers
  
- -colour
+ - colour
  
- -blue
+  - blue
